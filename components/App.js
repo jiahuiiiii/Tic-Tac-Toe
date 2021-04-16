@@ -1,14 +1,3 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- * @flow
- */
-/**
- * default import -- import React from 'react'
- * default imports are exported with export default....There can be only a single default export
- * But this is a member import (named import).
- * Member imports are exported with export .... There can be many member exports.
- */
 import React, { Component } from "react";
 import { StyleSheet, Text, View, TouchableOpacity } from "react-native";
 
